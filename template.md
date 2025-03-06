@@ -3,10 +3,5 @@
 
 level intro. . . .
 
-## Commands Ran:
-```bash
-ls -al
-```
-
 ## Flag:
 ``` x ```

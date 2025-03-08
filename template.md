@@ -1,7 +1,7 @@
 # PicoCTF Notes
 ## Level: xxxx
 
-level intro. . . .
+levelIntroText
 
 ## Flag:
 ``` x ```

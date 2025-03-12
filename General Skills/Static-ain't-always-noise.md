@@ -7,7 +7,7 @@ For this level we're given:
 
 - A bash script `itdis.sh`
 
-We need to find flag from tthe given binary - looking at the level description we can use the bash script to extract readable strings from `static`
+We need to find flag from the given binary - looking at the level description we can use the bash script to extract readable strings from `static`
 
 ### Solution
 
